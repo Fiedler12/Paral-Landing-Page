@@ -33,7 +33,7 @@ export const metadata = {
             >
               <div>
                 <a className="btn text-gray-300 bg-gradient-to-t from-gray-800 to-gray-700 hover:to-gray-800 w-full shadow-lg" href="#0">
-                  Explore Docs
+                  Explore Specs
                 </a>
               </div>
             </div>

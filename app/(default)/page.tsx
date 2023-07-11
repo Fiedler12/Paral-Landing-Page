@@ -17,9 +17,9 @@ export default function Home() {
     <>
       <Hero />
       {/* <PressLogos /> */}
-      <Features />
-      <Features02 />
-      <Pricing />
+      {/* <Features /> */}
+      {/* <Features02 /> */}
+      {/* <Pricing /> */}
       {/* <Testimonials /> */}
       {/* <Resources /> */}
       {/* <Cta /> */}
