@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Neon',
+  title: 'Home - Paral',
   description: 'Page description',
 }
 
@@ -16,13 +16,13 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <PressLogos />
+      {/* <PressLogos /> */}
       <Features />
       <Features02 />
       <Pricing />
-      <Testimonials />
-      <Resources />
-      <Cta />
+      {/* <Testimonials /> */}
+      {/* <Resources /> */}
+      {/* <Cta /> */}
     </>
   )
 }

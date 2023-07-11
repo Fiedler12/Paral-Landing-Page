@@ -21,8 +21,8 @@ export default function Hero() {
             <div data-aos="zoom-out">
               <div className="relative text-sm text-gray-300 bg-gray-800 rounded-full inline-block px-4 py-1 mb-6 before:content-[''] before:absolute before:-z-10 before:inset-0 before:-m-0.5 before:bg-gradient-to-t before:from-gray-800 before:to-gray-800 before:via-gray-600 before:rounded-full">
                 <div className="text-gray-400">
-                  Launching Infinite Workspaces.{' '}
-                  <a className="font-medium text-blue-500 inline-flex items-center transition duration-150 ease-in-out group" href="#0">
+                  Revolutionizing Medical Equipment.{' '}
+                  <a className="font-medium text-blue-500 inline-flex items-center transition duration-150 ease-in-out group" href="/api/about">
                     Learn More{' '}
                     <span className="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                   </a>
@@ -30,10 +30,10 @@ export default function Hero() {
               </div>
             </div>
             <h1 className="h1 font-uncut-sans mb-6" data-aos="zoom-out" data-aos-delay="100">
-              Where the world builds <em className="font-italic">software</em>
+              Paral
             </h1>
             <p className="text-xl text-gray-400 mb-10" data-aos="zoom-out" data-aos-delay="200">
-              Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum purus ut ex fringilla tincidunt. Suspendisse dictum risus sem, at malesuada nunc gravida non. Aliquam fringilla quam a maximus interdum. Cras sollicitudin condimentum neque sed tincidunt. Cras ut augue et felis vulputate tincidunt. 
             </p>
             <div
               className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4"
